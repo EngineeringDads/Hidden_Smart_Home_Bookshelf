@@ -6,3 +6,5 @@ Code is based on the adafruit Gmail Servo project, dinitially designed by Brent 
 
 When downloading the file, the arduino.ino code must also have the config.h file attached. Please update the required field such as Adafruit username, IO key and wifi credentials as stated in the gmailbox code
 
+
+Youtube video explaining how it was all put together
